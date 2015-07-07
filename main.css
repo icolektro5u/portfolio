@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  background-color: white;
+
+}
+
+.navbar{
+  height: 70px;
+  color: red;
+}
+
+.navbar li{
+  display: inline;
+  font-size: 20px;
+  padding:0 20px;
+}
+
+.navbar ul{
+  margin: 35px auto;
+  padding: 0;
+}
+
+.jumbotron{
+  position: relative;
+  top: 70px;
+  height: 500px;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/20/Stockholm_subway_radhuset_20050808_002.jpg');
+
+}
+
+.project-grid{
+  position: relative;
+  top: 100px;
+}
+
+.project-grid img{
+
+}
